@@ -30,10 +30,8 @@ No API key needed. Pre-built FAISS index and trained models are included in the 
 
 ## Video Links
 
-- **Demo**: [videos/Project Demo.mov](videos/Project%20Demo.mov)
-[Google Drive Backup] https://drive.google.com/file/d/1PNCT_mSTCc7EWWvHsKLCTUZgkvkz95mY/view?usp=drive_link
-- **Technical Walkthrough**: [videos/Technical Walkthrough.mp4](videos/Technical%20Walkthrough.mp4)
-[Google Drive Backup] https://drive.google.com/file/d/1t1M4DSyF8d1MuVUKu6lul6nbptJO9Lbu/view?usp=drive_link
+- **Demo**: [videos/Project Demo.mov](videos/Project%20Demo.mov) | [Google Drive Backup] https://drive.google.com/file/d/1PNCT_mSTCc7EWWvHsKLCTUZgkvkz95mY/view?usp=drive_link
+- **Technical Walkthrough**: [videos/Technical Walkthrough.mp4](videos/Technical%20Walkthrough.mp4) | [Google Drive Backup] https://drive.google.com/file/d/1t1M4DSyF8d1MuVUKu6lul6nbptJO9Lbu/view?usp=drive_link
 
 ---
 
