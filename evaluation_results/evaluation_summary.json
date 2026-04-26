@@ -1,0 +1,12 @@
+{
+  "inference_timing": {
+    "mean_ms": 274.3211507797241,
+    "std_ms": 634.3742247577591,
+    "min_ms": 56.39505386352539,
+    "max_ms": 2177.069902420044,
+    "throughput_qps": 3.6453623687332275
+  },
+  "mean_clip_similarity": 1.0000000019868216,
+  "recall_at_5": 1.0,
+  "n_eval_photos": 50
+}
